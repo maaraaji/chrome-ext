@@ -1,0 +1,1 @@
+chrome.windows.create({url : "popup.html",type: "popup", height: 917, width:375});
